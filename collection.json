@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Echoes of Cryptalia Items",
+    "description": "A collection of items for the game Echoes of Cryptalia",
+    "image": "https://test-metadata-staging.up.railway.app/collection.webp",
+    "external_link": "https://cryptalia.quest"
 }
