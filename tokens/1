@@ -1,12 +1,12 @@
 {
   "id": 1,
-  "image": "https://test-metadata-staging.up.railway.app/tokens/token1.webp",
+  "image": "https://test-metadata-staging.up.railway.app/tokens/hero.webp",
   "token_id": "1",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Test zkEVM NFT #1",
-  "description": "This NFT is my first Immutable zkEVM NFT",
+  "name": "Hero Container",
+  "description": "This NFT Can be user to redeem a hero at Echoes of Cryptalia",
   "external_url": null,
   "attributes": [
     {
