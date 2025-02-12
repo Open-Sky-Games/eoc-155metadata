@@ -1,25 +1,17 @@
 {
   "id": 1,
-  "image": "https://test-metadata-staging.up.railway.app/tokens/hero.webp",
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/acbe5333-a1ce-4ecd-4a3d-afca5e285600/nft",
   "token_id": "1",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Hero Container",
+  "name": "Whispered Urn",
   "description": "This NFT Can be user to redeem a hero at Echoes of Cryptalia",
-  "external_url": null,
+  "external_url": "https://cryptalia.quest",
   "attributes": [
     {
-      "trait_type": "Hat",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Coat",
-      "value": "Tails"
-    },
-    {
-      "trait_type": "Neck",
-      "value": "Bow Tie"
+      "trait_type": "Type",
+      "value": "Chest"
     }
   ]
 }
