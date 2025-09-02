@@ -1,21 +1,21 @@
 {
-  "id": 1,
+  "id": 10,
   "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/acbe5333-a1ce-4ecd-4a3d-afca5e285600/nft",
-  "token_id": "1",
+  "token_id": "10",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Whispered Urn",
-  "description": "This Magical Urn can be used to obtain a random item from the Echoes of Cryptalia.",
+  "name": "Praise of the Council",
+  "description": "The Council of Echoes recognizes the valor of a Hero. Show this item to a King and it will increase that Hero's reputation with his kingdom.",
   "external_url": "https://cryptalia.quest",
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "random_item"
+      "value": "reputation_boost"
     },
     {
       "trait_type": "Rarity",
-      "value": "Special"
+      "value": "Rare"
     }
   ]
 }

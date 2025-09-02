@@ -1,0 +1,21 @@
+{
+  "id": 8,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/acbe5333-a1ce-4ecd-4a3d-afca5e285600/nft",
+  "token_id": "8",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Never Again NFT Artifact",
+  "description": "These items cannot be obtained in-game and will allow the Hero who carries them to obtain premium Traits that can only be obtained in this way. With this NFT you will be able to obtain an exclusive trait for your Hero within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "random_trait"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unattainable"
+    }
+  ]
+}

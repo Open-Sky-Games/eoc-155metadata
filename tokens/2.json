@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/acbe5333-a1ce-4ecd-4a3d-afca5e285600/nft",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Raw Materials",
+  "description": "Logs, food, and mineral stones. We designed to mimic real economies & resources will be abundant or scarce depending on zones. With this NFT you will be able to obtain a pack of these resources within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "materials_pack"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
