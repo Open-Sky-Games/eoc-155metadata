@@ -26,7 +26,16 @@ app.get("/collection.json", (req, res) => {
 
 // Handle individual token metadata
 app.get("/tokens/:tokenId", (req, res) => {
-  const tokenId = req.params.tokenId;
+  let tokenId = req.params.tokenId;
+
+  // Check if the tokenId is a long hexadecimal string (64 characters)
+  // This is common for ERC-721 token IDs that are uint256 values
+  if (tokenId.length === 64 && /^[0-9a-fA-F]+$/.test(tokenId)) {
+    // Convert hex string to decimal
+    tokenId = parseInt(tokenId, 16).toString();
+    console.log(`Converted hex token ID to decimal: ${tokenId}`);
+  }
+
   const filePath = path.join(__dirname, "tokens", `${tokenId}.json`);
 
   res.setHeader("Content-Type", "application/json");
