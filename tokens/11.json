@@ -1,0 +1,21 @@
+{
+  "id": 11,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/52f2b185-ca66-413d-b226-b1a4d5152600/nft",
+  "token_id": "11",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Legendary Relic",
+  "description": "You have obtained the lost weapon from forgotten times. When a Hero returns this item to its owner, they'll be rewarded with an item of equal Value.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "legendary_wildcard"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

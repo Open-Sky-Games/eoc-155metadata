@@ -1,0 +1,21 @@
+{
+  "id": 9,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/0156c320-5d33-48f0-6b2d-20a45bee7b00/nft",
+  "token_id": "9",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Letter of Commendment",
+  "description": "A Hero may present this item to one of the leaders in the region to increase their Reputation with the People they represent.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "reputation_boost"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

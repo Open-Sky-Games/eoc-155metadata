@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/137c7e7d-c0e5-4f6f-cc29-062ba0ef4200/nft",
+  "token_id": "4",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Upgrade NFT",
+  "description": "Upgrades are structures that allow you to craft NFT items, interact with NPCs, and upgrade your Heroes. With this NFT you will be able to obtain an upgrade at random within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "random_upgrade"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

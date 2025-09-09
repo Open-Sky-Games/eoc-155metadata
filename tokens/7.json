@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/acbe5333-a1ce-4ecd-4a3d-afca5e285600/nft",
+  "token_id": "7",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Special NFT Artifact",
+  "description": "These items unlock interactions with specific NPCs that allow your Heroes to cultivate their spirit, body, or mind. With this NFT you will be able to obtain a trait at random for your Hero within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "random_trait"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -11,7 +11,11 @@
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Chest"
+      "value": "random_item"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Special"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "id": 10,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/c40c16e6-b239-4f72-420a-60cbd61ae900/nft",
+  "token_id": "10",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Praise of the Council",
+  "description": "The Council of Echoes recognizes the valor of a Hero. Show this item to a King and it will increase that Hero's reputation with his kingdom.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "reputation_boost"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

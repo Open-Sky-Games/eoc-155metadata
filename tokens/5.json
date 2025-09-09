@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/9c8f4c71-1aa0-49a4-079c-36488b35d900/nft",
+  "token_id": "5",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Lore Artifact",
+  "description": "When your Heroes carry these items during their adventures, they unlock special interactions with NPCs along the way and access rare NFTs. With this NFT you will be able to obtain a pack of those items at random within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "items_pack"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

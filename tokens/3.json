@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/1f302148-828d-4f5c-7399-eb52e85a7500/nft",
+  "token_id": "3",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Refined Materials",
+  "description": "Raw Materials can be transformed into Refined Materials of diverse quality. You will use planks, supplies, and ingots to build upgrades and craft items. With this NFT you will be able to obtain a pack of these resources within Echoes of Cryptalia.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "materials_pack"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
