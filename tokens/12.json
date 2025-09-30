@@ -1,0 +1,21 @@
+{
+  "id": 12,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/363368ff-c543-4f0e-6bc8-10102eec6400/nft",
+  "token_id": "12",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Risky Ticket",
+  "description": "Prized by collectors for the sheer audacity it represents. The key to accessing challenges where legends are truly made.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ticket"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
