@@ -1,0 +1,21 @@
+{
+  "id": 15,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/c707133a-916d-42d5-9329-32911a84d100/nft",
+  "token_id": "15",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Howler Hat",
+  "description": "The pelt is cheap and the ears are crooked. But the guy I took it from said the Howler's shadow \"touched\" it. So now it's my spooky, mysterious hat.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "cosmetic"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

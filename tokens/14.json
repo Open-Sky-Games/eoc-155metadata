@@ -1,0 +1,21 @@
+{
+  "id": 14,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/4d8e97d8-6a35-4f54-3cc1-678dabcfc000/nft",
+  "token_id": "14",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Sprouthorn Hat",
+  "description": "I pulled this off that big, twitchy deer in Agonitas. It's a bit moldy and smells like a graveyard, but I think the antlers make me look regal... right?",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "cosmetic"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
