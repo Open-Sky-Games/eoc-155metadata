@@ -1,0 +1,21 @@
+{
+  "id": 16,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/2ebae393-4b7d-443a-136f-a83c3b82b500/nft",
+  "token_id": "16",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Slithzoa Hat",
+  "description": "It's still dripping. And yes, I know it's technically still alive. But if those adventurers in the Hilare dungeons can wear slime, so can I!",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "cosmetic"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
