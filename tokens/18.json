@@ -1,0 +1,21 @@
+{
+  "id": 18,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/1082015b-f9ea-47f9-f05a-85c19c1c3800/nft",
+  "token_id": "18",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Helper's Hat",
+  "description": "Pointy ears included. Ideal for the hard worker who toils in the workshop while the 'big guy' takes all the credit.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "cosmetic"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
