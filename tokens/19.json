@@ -1,0 +1,21 @@
+{
+  "id": 19,
+  "image": "https://imagedelivery.net/a2TloCkdGe50rGG9Lit7sg/6f236e25-7c89-4fba-034f-9649cae69a00/nft",
+  "token_id": "19",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Reindeer's Hat",
+  "description": "The red nose glows faintly. Perfect for guiding your party through dark, snowy nights.",
+  "external_url": "https://cryptalia.quest",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "cosmetic"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
